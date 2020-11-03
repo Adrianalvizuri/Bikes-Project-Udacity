@@ -1,6 +1,5 @@
-# 2018 Bay Wheels Ride Data Exploration and Visualization
-## by Kailai Zhang
-
+# 2020 Bay Wheels # Ford Gobike Data Exploration
+## by Adrian Alviuri
 
 ## Dataset
 
