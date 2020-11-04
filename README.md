@@ -22,3 +22,10 @@ There were more male riders than female and most members were subscribers. Also,
 
 The usage for subscribers corresponds to their high concentration on rush hours Monday through Friday which indicates that the use is for work commute in the vast majority of cases. The interactions between features behaved as expected, there's no big surprise observed. There were more male data collected, but the only thing that could be is that males take shorter rides than women.
 
+## Key Insights for Presentation
+
+>Distribution of Trip Durations:
+Trip Durations in the dataset take on a very large range of values. Number of Trips values first increases starting from around 8000 values to 12500 values at peak around 600 seconds but then starts to fall below at 2000 values.
+
+>Distribution of User Age:
+The distribution is more concentrated between 20 to 45 years old.
